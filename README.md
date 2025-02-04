@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to AI Fitness Trainer project
 
 ## Project info
 
