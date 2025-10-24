@@ -1,8 +1,10 @@
-# Welcome to AI Fitness Trainer project
+# Welcome to the AI Fitness Trainer project
 
 ## Project info
 
 **URL**: https://lovable.dev/projects/0dd7b224-dc61-42c1-8ab0-ea9f40074f21
+
+**Preview**: ![AI Fitness Trainer project](Screenshot 2025-10-24 175151.png)
 
 ## How can I edit this code?
 
@@ -40,7 +42,7 @@ npm run dev
 
 - Navigate to the desired file(s).
 - Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Make your changes and commit them.
 
 **Use GitHub Codespaces**
 
@@ -52,7 +54,7 @@ npm run dev
 
 ## What technologies are used for this project?
 
-This project is built with .
+This project is built with.
 
 - Vite
 - TypeScript
