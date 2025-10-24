@@ -4,7 +4,7 @@
 
 **URL**: https://lovable.dev/projects/0dd7b224-dc61-42c1-8ab0-ea9f40074f21
 
-**Preview**: ![AI Fitness Trainer project](Screenshot 2025-10-24 175151.png)
+**Preview**: ![AI Fitness Trainer project](PreviewBot.png)
 
 ## How can I edit this code?
 
